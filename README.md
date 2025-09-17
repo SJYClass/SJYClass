@@ -94,7 +94,6 @@
 [![Email](https://img.shields.io/badge/📧_Email-sjyclass@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjyclass@example.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-SJYClass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SJYClass)
 [![CSDN](https://img.shields.io/badge/📝_CSDN博客-SJYClass博客-FF0000?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/SJYClass)
-[![掘金](https://img.shields.io/badge/💰_掘金-SJYClass-007396?style=for-the-badge&logo= juejin&logoColor=white)](https://juejin.cn/user/SJYClass)
 
 </div>
 
